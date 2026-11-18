@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="" group-title="Bigg Boss",Ep68
-https://img1.fcxmb.com/hls_mps/9ba3eec5b8b0fd01426730ae60c1d82be4861cbd/720/index_266.m3u8?Expires=1794988987&KeyName=Signature&Signature=d4LC0Q42wl4f-RwebqbQ_4o3SJes_r19gg-A0zbN83yqSWxOHKESwBCvZfsl2FpO6Q_EdRk_0RTmdILxtWwNBA==
+#EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="" group-title="Bigg Boss",Ep71
+https://img1.fcxmb.com/hls_mps/76d2ec656438c2cd3cef9a0c3c4d2d223bdaf242/720/index_266.m3u8?Expires=1795019593&KeyName=Signature&Signature=TJCJkBuQxXVJ463vILrG3N1WEM_4tIZ3IicnPzdTWLPk48e1irhsZByyj8bSkN1z5iiGIMz_9fhu53CBm_gRBA==
 #EXTINF:-1 tvg-id="0" tvg-name="0" tvg-logo="" group-title="Bigg Boss",Ep69
 https://img1.fcxmb.com/hls_mps/16260f0926116c3172d3d02dd79e53cdc7c320d3/720/index_266.m3u8?Expires=1795010933&KeyName=Signature&Signature=KSj-Mxt0rHF8yy9Ia7K7eWGOY3EqY31fbeWz6BWwRerV5td98uetART7fHRkWhWcbV3fC8XjnjjkzkloZ6VxBw==
 #EXTINF:0 tvg-id="0" tvg-name="0" tvg-logo="" group-title="Bigg Boss",Ep70
